@@ -1,0 +1,22 @@
+header, footer {
+	background-color: firebrick;
+	color: white;
+	text-align: center;
+	padding: `.25rem;
+}
+
+a {
+	color: white;
+}
+
+main {
+	padding: 20px;
+	max-width: 900px;
+	margin: 0 auto;
+	flex-grow: 1;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+}
